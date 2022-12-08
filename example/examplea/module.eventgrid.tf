@@ -1,5 +1,5 @@
 module "eventgrid" {
-  source      = "../../"
-  tags = var.tags
-  name="pike"
+  source = "../../"
+  tags   = var.tags
+  name   = "pike"
 }

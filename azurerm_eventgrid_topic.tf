@@ -13,5 +13,5 @@ resource "azurerm_eventgrid_topic" "pike" {
 }
 
 variable "name" {
-    type = string
+  type = string
 }
